@@ -1,3 +1,4 @@
+
 import Cactus from "./Cactus.js";
 
 export default class CactiController {
@@ -71,4 +72,5 @@ export default class CactiController {
   reset(){
     this.cacti = [];
   }
+
 }
