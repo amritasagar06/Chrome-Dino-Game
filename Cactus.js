@@ -1,3 +1,4 @@
+
 export default class Cactus {
     constructor(ctx, x, y, width, height, image) {
         this.ctx = ctx;
@@ -26,4 +27,5 @@ export default class Cactus {
             return false;
         }
     }
+
 }
