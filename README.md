@@ -1,11 +1,5 @@
 # Chrome-Dino-Game
 
-Here’s a **clean, professional, copy-paste-ready README** for your Dino Game project. No formatting issues, no extra fluff — exactly what GitHub expects.
-
----
-
-# Chrome Dino Game Clone
-
 A fully functional clone of the classic Chrome Dino Game built with **HTML, CSS, and vanilla JavaScript**. This project focuses on game mechanics, animation timing, collision detection, and clean JavaScript structuring without any external libraries.
 
 ## Features
@@ -47,6 +41,3 @@ script.js
 
 
 
----
-
-If you want, I can generate a **matching visual banner**, **documentation badges**, or a **GitHub project description** for the repo too.
