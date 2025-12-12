@@ -1,4 +1,5 @@
 
+
 export default class Player {
   WALK_ANIMATION_TIMER = 200;
   walkAnimationTimer = this.WALK_ANIMATION_TIMER;
@@ -155,3 +156,4 @@ export default class Player {
   }
 
 }
+
